@@ -1,2 +1,2 @@
-# Survey-Automation
+# SurveyAutomation
 Automation for survey sites
